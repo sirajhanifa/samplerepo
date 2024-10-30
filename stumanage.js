@@ -4,7 +4,7 @@ function stumanage() {
   return (
     <div>stumanage
       <div>
-        <h1>haneef</h1>
+        <h1>hanifa</h1>
       </div>
     </div>
   )
