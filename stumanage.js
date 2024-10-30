@@ -7,7 +7,6 @@ function stumanage() {
         <h1>haneef</h1>
       </div>
     </div>
-
   )
 }
 
